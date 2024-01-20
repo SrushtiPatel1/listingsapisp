@@ -1,3 +1,20 @@
+1./********************************************************************************
+*  WEB422 – Assignment 1
+* 
+*  I declare that this assignment is my own work in accordance with Seneca's
+*  Academic Integrity Policy:
+* 
+*  https://www.senecapolytechnic.ca/about/policies/academic-integrity-policy.html
+* 
+*  Name: Srushti Patel Student ID:117791228 Date: 19/01/2024
+
+   Github link: https://github.com/SrushtiPatel1/listingsapisp
+*
+*  Published URL: ___________________________________________________________
+*
+********************************************************************************/
+
+
 const express = require("express");
 const cors = require("cors");
 const dotenv = require("dotenv");
