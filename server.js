@@ -33,8 +33,6 @@ app.use(express.json());
 // Initialize MongoDB connection
 const db = new ListingsDB();
 
-
-// Routes
 app.get("/", (req, res) => {
   res.json({ message: "API Listening" });
 });
